@@ -4,7 +4,7 @@
 // Pengembangan Aplikasi Mobile Multiplatform
 
 // ------------------------------------------
-// Perulangan
+// Percabangan
 
 import 'dart:io';
 main(List<String> args) {
@@ -21,3 +21,7 @@ main(List<String> args) {
     print("Nilai yang anda masukkan sama dengan 100");
   }
 }
+
+// ------------------------------------------
+// Percabangan
+
