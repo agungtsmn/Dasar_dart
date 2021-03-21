@@ -60,8 +60,8 @@ main(List<String> args) {
   print(" ");
 }
 
-------------------------------------------
-Percabangan (Percobaan sendiri)
+// ------------------------------------------
+// Percabangan (Percobaan sendiri)
 
 import 'dart:io';
 main(List<String> args) {
